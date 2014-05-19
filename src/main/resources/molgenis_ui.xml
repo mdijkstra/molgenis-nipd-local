@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<molgenis label="Autobetes" name="nipd">
+<molgenis label="NIPD" name="nipd">
 	<menu label="Home" name="main">
 		<plugin id="home" name="Home" url="home"/>
 		<menu label="Entities" name ="entities">
